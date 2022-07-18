@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://github.com/Dedition/WhoDis">
-    <img src="./react-app/src/images/WhoDisLogo.png" alt="Logo" width="80" height="80" style="background-color:white">
-  </a>
+  
 
   <h3 align="center">WhoDis?</h3>
 
