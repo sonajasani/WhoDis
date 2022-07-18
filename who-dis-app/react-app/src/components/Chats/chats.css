@@ -1,0 +1,27 @@
+.chats-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    height: 100vh;
+    width: 100%;
+    background-color: rgb(54 54 54 / 32%);
+    overflow-y: auto;
+    box-shadow: inset 3px -1px 20px 0px black;
+}
+
+
+#no-channels-msg {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.404);
+    font-weight: 600;
+    color: whitesmoke;
+}
+
+#no-channels-text {
+    font-size: 25px;
+}

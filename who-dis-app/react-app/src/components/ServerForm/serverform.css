@@ -1,0 +1,147 @@
+.server-form-container {
+    position: sticky;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    width: 100%;
+
+}
+
+.server-bubble-form {
+    box-shadow: 0px 10px 5px rgba(0, 0, 0, 0.568);
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    height: 60%;
+    width: 60%;
+    background-color: rgb(37, 37, 37);
+    border-radius: 25%;
+    border: 2px solid green; 
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+}
+
+.server-bubble-form:hover {
+    transform: scale(.98);
+    border: 2px solid rgba(255, 255, 255, 0.842);
+}
+
+
+.add-server-btn {
+    font-size: 42px;
+    color: white;
+    border-radius: 50%;
+}
+
+
+.server-form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.562);
+    height: 520px;
+    width: 420px;
+    border-radius: 15px;
+    border: 2px solid rgb(185, 74, 0);
+}
+
+#create-server-title {
+    color: whitesmoke;
+}
+
+
+#create-server-errors {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: whitesmoke;
+    list-style: none;
+    position: relative;
+    right: 5%;
+}
+
+#create-server-errors > li {
+    margin-bottom: 5px;
+}
+
+
+.server-create-input {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+
+#server-create-name {
+    margin-bottom: 5px;
+    color: whitesmoke;
+}
+
+#server-create-banner {
+    color: whitesmoke;
+}
+
+
+
+
+.server-banner-input {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    color: whitesmoke;
+}
+
+
+.server-icon-input {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    color: whitesmoke;
+}
+.server-form > div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
+.server-form > div > input {
+    margin-bottom: 20px;
+    width: 80%;
+    height: 30px;
+    border-radius: 5px;
+    outline: none;
+    border:  none;
+    font-size: 16px;
+}
+
+.server-create-btn {
+    position: relative;
+    top: 5%;
+    width: 120px;
+    height: 35px;
+    border-radius: 8px;
+    outline: none;
+    border: none;
+    border: 2px solid white;
+    background-color:rgb(185, 74, 0);
+    color: whitesmoke;
+    font-size: 16px;
+    transition: all 0.1s ease-in-out;
+    cursor: pointer;
+}
+
+
+.server-create-btn:hover {
+    transform: scale(0.97);
+}

@@ -1,0 +1,55 @@
+
+.create-channel-form {
+    position: absolute;
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 440px;
+    height: 250px;
+    background-color: rgba(0, 0, 0, 0.521);
+    border-radius: 10px;
+    border: 2px solid rgb(93, 204, 255);
+}
+
+#create-channel-title {
+    font-size: 22px;
+    color: whitesmoke;
+}
+
+.create-channel-form > input {
+    width: 80%;
+    height: 30px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    outline: none;
+    border: none;
+    font-size: 16px;
+}
+
+#create-channel-btn {
+    margin-top: 8px;
+    height: 35px;
+    width: 150px;
+    border-radius: 5px;
+    border: none;
+    background-color: rgb(21, 143, 151);
+    border: 2px solid white;
+    color: whitesmoke;
+    font-size: 16px;
+    transition: all 0.1s ease-in-out;
+    cursor: pointer;
+    
+}
+
+#create-channel-btn:hover {
+    transform: scale(0.98);
+}
+
+#create-channel-errors {
+    margin-bottom: 15px;
+    color: whitesmoke;
+    list-style: none;
+    text-align: center;
+    margin-right: 15px;
+}

@@ -1,0 +1,101 @@
+.each-chat-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+    width: 100%;
+    position: relative;
+    left: -4%;
+    border: 1px solid rgb(19 30 22 / 24%);
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+
+.profile-pic-chat {
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-start;
+    width: 8%;
+    height: 100%;
+}
+
+.profile-pic-msg {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: blue;
+    border: 2px solid whitesmoke;
+    position: relative;
+    right: 23%;
+    top: 5%;
+}
+
+.user-chat-container {
+    display: flex;
+    flex-direction: column;
+    width: 75%;
+    height:  100%;
+}
+
+.user-name-msg {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    width: 45%;
+    height: 20%;
+    font-size: 18px;
+    color: whitesmoke;
+    position: relative;
+    top: 8%;
+}
+
+.user-chat-msg {
+    position: relative;
+    top: 15%;
+    width: 100%;
+    height: 100%;
+    color: whitesmoke;
+}
+
+
+::-webkit-scrollbar {
+    background-color: transparent;
+    width: 1px;
+    height: 1px;
+}
+
+.msg-edit-box {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    height: 100%;
+}
+
+.edit-btn-chat {
+    color: whitesmoke;
+    transition: all 0.2s ease-in-out;
+    cursor: pointer;
+}
+
+.edit-btn-chat:hover {
+    color: rgb(61, 61, 224);
+    opacity: .9;
+    transform: scale(1.1);
+}
+
+
+.delete-chat-btn {
+    color: whitesmoke;
+    transition: all 0.2s ease-in-out;
+    cursor: pointer;
+    
+}
+
+.delete-chat-btn:hover {
+    color: rgb(168, 44, 44);
+    opacity: .9;
+    transform: scale(1.1)
+}

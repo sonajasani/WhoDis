@@ -1,0 +1,194 @@
+body {
+    background-color: rgb(62, 71, 62);
+}
+
+.edit-user-container {
+    display: grid;
+    grid-template-rows: 0.35fr 0.4fr auto;
+    position: relative;
+    width: 800px;
+    height: 740px;
+    top: 10%;
+    left: 60%;
+    background-color: rgb(63, 82, 76);
+    border-radius: 15px;
+    border: 2px solid orange;
+    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.356);
+}
+
+.edit-user-banner {
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+
+.edit-user-form {
+    display: flex;
+    justify-content: center;
+
+}
+
+.edit-form-user {
+    display: flex;
+    flex-direction: column;
+
+
+}
+
+
+.edit-user-info {
+    border-top: 2px solid white;
+    border-bottom: 2px solid white;
+    display: flex;
+    flex-direction: row;
+
+}
+
+.profile-pic-box {
+    display: flex;
+    justify-content: flex-start;
+    width: 50%;
+    border-bottom: 2px solid black;
+}
+
+.profile-pic {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: aliceblue;
+    margin-left: 15px;
+    margin-top: 5px;
+    box-shadow: 0px 3px 5px rgba(0, 0, 0, 0.479);
+    border: 2px solid white;
+}
+
+
+
+.user-info {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    border-bottom: 2px solid black;
+}
+
+.user-name {
+    display: flex;
+    flex-direction: row;
+    height: 25%;
+    color: whitesmoke;
+    font-size: 20px;
+    margin-top: 5px;
+    border-bottom: 2px solid black;
+}
+
+.user-bio {
+    display: flex;
+    flex-direction: row;
+    height: 80%;
+    color: whitesmoke;
+    font-size: 18px;
+    margin-left: 10px;
+}
+
+.edit-user-form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    background-color: rgb(63, 82, 76);
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.edit-form-user {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 85%;
+    height: 80%;
+}
+
+.edit-form-user > input {
+    width: 100%;
+    height: 30px;
+    margin-bottom: 25px;
+    outline: none;
+    border-radius: 5px;
+    border: none;
+    font-size: 16px;
+}
+
+.edit-form-user > label {
+    color: whitesmoke;
+    text-align: left;
+}
+
+.edit-user-btn-box {
+    margin-top: 10px;
+    width: 60%;
+    height: 20%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#edit-user-btn {
+    height: 40px;
+    width: 120px;
+    background-color: rgb(37, 129, 233);
+    border-radius: 5px;
+    border: none;
+    border: 2px solid white;
+    color: white;
+}
+
+#delete-user {
+    height: 40px;
+    width: 120px;
+    background-color: rgb(146, 35, 35);
+    border-radius: 5px;
+    border: none;
+    border: 2px solid white;
+    color: white;
+}
+
+
+.warning-edit-message {
+    color: orange;
+    font-size: 20px;
+    text-align: center;
+}
+
+.edit-user-errors {
+    background-color: rgba(255, 255, 255, 0.637);
+    color: rgb(230, 0, 0);
+    list-style: none;
+    text-align: center;
+}
+
+#user-card-name {
+    margin-right: 10px;
+    color: green;
+}
+
+#user-card-bio {
+    margin-right: 10px;
+    color: green;
+}
+
+#no-edit-msg {
+    padding: 2px;
+    border: 1px solid rgb(190, 49, 49);
+    font-size: 18px;
+    color: rgb(255, 255, 255);
+    border-radius: 5px;
+}
+
+
+.filetype-btn {
+    background-color: transparent;
+    color: orange;
+    font-size: 15px;
+}
