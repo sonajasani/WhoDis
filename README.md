@@ -1,7 +1,7 @@
 <p align="center">
   
 
-  <h3 align="center">WhoDis?</h3>
+  <h1 align="center">WhoDis?</h1>
 
   <p align="center">
    WhoDis?, a Discord clone, is a messaging app that allows users to make servers, channels inside servers and message their friends through channels.
