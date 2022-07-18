@@ -6,14 +6,14 @@
   <p align="center">
    WhoDis?, a Discord clone, is a messaging app that allows users to make servers, channels inside servers and message their friends through channels.
     <br />
-    <a href="https://github.com/Dedition/WhoDis"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/sonajasani/WhoDis"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://who-dis-app.herokuapp.com/">View Site</a>
     ·
-    <a href="https://github.com/AnthonyRo1/who-dis-app/issues">Report Bug</a>
+    <a href="https://github.com/sonajasani/WhoDis/issues">Report Bug</a>
     ·
-    <a href="https://github.com/AnthonyRo1/who-dis-app/issues">Request Feature</a>
+    <a href="https://github.com/sonajasani/WhoDis/issues">Request Feature</a>
   </p>
 </p>
 
@@ -73,7 +73,7 @@ The front end is built with React and Javascript while utilizing Redux architect
 1. Clone this repository (only this branch)
 
    ```bash
-   git clone https://github.com/AnthonyRo1/who-dis-app.git
+   git clone https://github.com/sonajasani/WhoDis.git
    ```
 
 2. Install dependencies
@@ -109,7 +109,7 @@ The front end is built with React and Javascript while utilizing Redux architect
 
 
 ## Roadmap
-See the [open issues](https://github.com/AnthonyRo1/who-dis-app/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/sonajasani/WhoDis/issues) for a list of proposed features (and known issues).
 
 
 ## Contributing
@@ -128,7 +128,7 @@ Contributions are what make the open source community such an amazing place to b
 - Weiqi Mei - [GitHub](https://github.com/weiqimei)
 - Sona Jasani - [GitHub](https://github.com/sonajasani)
 - Anthony Rodriguez - [GitHub](https://github.com/AnthonyRo1)
-- Project Link: [https://github.com/AnthonyRo1/who-dis-app](https://github.com/AnthonyRo1/who-dis-app)
+- Project Link: [https://github.com/sonajasani/WhoDis](https://github.com/sonajasani/WhoDis)
 
 
 
