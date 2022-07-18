@@ -128,7 +128,7 @@ Contributions are what make the open source community such an amazing place to b
 - Weiqi Mei - [GitHub](https://github.com/weiqimei)
 - Sona Jasani - [GitHub](https://github.com/sonajasani)
 - Anthony Rodriguez - [GitHub](https://github.com/AnthonyRo1)
-- Project Link: [https://github.com/sonajasani/WhoDis](https://github.com/sonajasani/WhoDis)
+- Project Link: [https://github.com/sonajasani/WhoDis/tree/main/who-dis-app](https://github.com/sonajasani/WhoDis/tree/main/who-dis-app)
 
 
 
