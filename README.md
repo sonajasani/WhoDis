@@ -38,7 +38,7 @@
 
 ## About The Project
 
-[Click here to view WhoDis? live!](https://who-dis-app.herokuapp.com/)
+
 <br>
 ![Screenshot (132)](https://user-images.githubusercontent.com/99559369/177391574-9ce8a9db-ba9e-412f-a358-0879926b882d.png)
 </br>
@@ -122,11 +122,8 @@ Contributions are what make the open source community such an amazing place to b
 
 ## Contact & Acknowledgements
 
-- Leo Lad - [GitHub](https://github.com/Dedition)
-- Weiqi Mei - [GitHub](https://github.com/weiqimei)
 - Sona Jasani - [GitHub](https://github.com/sonajasani)
-- Anthony Rodriguez - [GitHub](https://github.com/AnthonyRo1)
-- Project Link: [https://github.com/sonajasani/WhoDis/tree/main/who-dis-app](https://github.com/sonajasani/WhoDis/tree/main/who-dis-app)
+
 
 
 
