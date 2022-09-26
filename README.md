@@ -9,8 +9,6 @@
     <a href="https://github.com/sonajasani/WhoDis"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://who-dis-app.herokuapp.com/">View Site</a>
-    ·
     <a href="https://github.com/sonajasani/WhoDis/issues">Report Bug</a>
     ·
     <a href="https://github.com/sonajasani/WhoDis/issues">Request Feature</a>
@@ -37,11 +35,6 @@
 
 
 ## About The Project
-
-
-<br>
-![Screenshot (132)](https://user-images.githubusercontent.com/99559369/177391574-9ce8a9db-ba9e-412f-a358-0879926b882d.png)
-</br>
 
 
 ## Overall Structure
